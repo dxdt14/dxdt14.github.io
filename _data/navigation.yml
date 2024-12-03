@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://dxdt14.github.io/publications/
 
   # - title: "Talks"
   #   url: /talks/    
