@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0930.png"
+  avatar           : "https://dxdt14.github.io/images/IMG_0930.png"
   name             : ""
   pronouns         : "he/him" 
   bio              : "I am an undergraduate student pursuing a dual degree in Computer Engineering and Mathematics. I have an interest in AI/ML, convex & non-convex optimization, and information theory"
