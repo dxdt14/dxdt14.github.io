@@ -10,19 +10,26 @@ redirect_from:
 About Me
 ===
 
-I am Vidhata Jayaraman, a third year undergraduate student at the University of Illinois Urbana-Champaign (UIUC) pursuing a dual degree
-in Computer Engineering and Mathematics. I am currently doing research under the direction of Professor Lav R. Varshney at UIUC in information theory applications to artificial intelligence and some work in quantum information theory. I am very much interested in pursuing a Ph.D. in Artificial Intelligence/Machine Learning theory with a particular interest in Information Theory and Optimization. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
+I am Vidhata Jayaraman, a fourth year undergraduate student at the University of Illinois Urbana-Champaign (UIUC) pursuing a dual degree
+in Computer Engineering and Mathematics. I am currently doing research under the direction of Professor Lav R. Varshney at UIUC in interpretability and AI theory (with a focus on information theory). I am very much interested in pursuing a Ph.D. in Artificial Intelligence/Machine Learning theory with a particular interest in Information Theory and Geometry/Topology. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
 
 
 Academic Interests
 ===
 
-My main research interests lie in Information theory (particularly in its applications to AI/ML), Quantum Information, Convex and Non-Convex Optimization, and Computational Linguistics. My main goals lie in doing information theoretic analysis of artificial intelligence systems and algorithms to analyze their theoretical performance or determine performance bounds. I have recently gained an interest in Quantum Information as well particularly for  quantum learning techniques whether that be Quantum Machine Learning (QML) or quantum state/process tomography. 
+My main research interests lie in Machine Learning/Artificial Intelligence theory with a focus on optimization, Information Theory, Uncertainty Quantification, and Geometry \& Topology. My main goals lie in doing information theoretic analysis of artificial intelligence systems and algorithms to analyze their theoretical performance or determine performance bounds. I am currently doing work on deriving information-theoretic bound on knowledge distillation particularly in LLMs and on vision-language model (VLM) interpretability.
 
 Academic Coursework
 ===
 
-Past/Current courses:
+Current Courses:
+- Information Theory (ECE 563)
+- Probability and Measure (STAT 553)
+- Deep Generative Models (ECE 498)
+- Complex Variables (MATH 448)
+- Senior Thesis
+
+Past courses:
 - Math:
   - Real Analysis
   - Abstract Algebra
@@ -30,14 +37,12 @@ Past/Current courses:
   - Probability Theory
   - Linear Algebra
   - Differential Equations
+  - Algebraic Topology
 - Applied Math:
   - Optimization
+  - Random Processes
+  - Machine Learning
+  - Deep Learning for Computer Vision
   - Quantum Information Theory
   - Algorithms & Models of Computation
   - Analog and Digital Signal Processing
-
-Next Semester Courses:
-- Algebraic Topology
-- Random Processes
-- Machine Learning
-- Deep Learning for Computer Vision
