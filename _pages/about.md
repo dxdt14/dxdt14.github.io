@@ -11,23 +11,29 @@ About Me
 ===
 
 I am Vidhata Jayaraman, a fourth year undergraduate student at the University of Illinois Urbana-Champaign (UIUC) pursuing a dual degree
-in Computer Engineering and Mathematics. I am currently doing research under the direction of Professor Lav R. Varshney at UIUC in interpretability and AI theory (with a focus on information theory). I am very much interested in pursuing a Ph.D. in Artificial Intelligence/Machine Learning theory with a particular interest in Information Theory and Geometry/Topology. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
+in Computer Engineering and Mathematics. I am currently doing research under Professors [Lav R. Varshney](varshney.csl.illinois.edu[) and [Rayadurgam Srikant](sites.google.com/a/illinois.edu/srikant) at UIUC in machine learning theory (with a particular focus on information theoretic methods). I am also being co-advised by both professors for my senior thesis on "Information-theoretic limits of Knowledge Distillation". I am planning to pursuing a Ph.D. with a particular focus on machine learning theory, high-dimensional statistics, information theory, optimization/controls, uncertainty quantification, and quantum information. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
 
 
 Academic Interests
 ===
 
-My main research interests lie in Machine Learning/Artificial Intelligence theory with a focus on optimization, Information Theory, Uncertainty Quantification, and Geometry \& Topology. My main goals lie in doing information theoretic analysis of artificial intelligence systems and algorithms to analyze their theoretical performance or determine performance bounds. I am currently doing work on deriving information-theoretic bound on knowledge distillation particularly in LLMs and on vision-language model (VLM) interpretability.
+My main research interests lie in Machine Learning Theory with a focus on High-Dimensional Statistics, Optimization, Information Theory, and Uncertainty Quantification. My main goals lie in doing statistical and geometric analyses on modern high-dimensional systems to explain their behavior, motivate algorithmic improvements, and find ulitmate performance bounds. I am currently doing work on deriving information-theoretic bounds on knowledge distillation particularly in LLMs and on vision-language model (VLM) interpretability.
 
 Academic Coursework
 ===
+Spring 2026 Courses:
+- Optimal Controls (ECE 553)
+- Statistical Inference (ECE 561)
+- Partial Differential Equations (MATH 442)
+- Numerical Analysis (CS 450)
+- Senior Thesis
 
 Current Courses:
 - Information Theory (ECE 563)
 - Probability and Measure (STAT 553)
 - Deep Generative Models (ECE 498)
 - Complex Variables (MATH 448)
-- Senior Thesis
+- Senior Research
 
 Past courses:
 - Math:
