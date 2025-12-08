@@ -1,7 +1,7 @@
 ---
 title: "Unmasking the functionality of the early layers in VLMs"
 collection: publications
-category: manuscripts
+category: conferences
 excerpt: 'Presented at the eXCV Workshop at ICCV 2025. Interpretability work on determining how vision is transformed in the early layers in VLMs. '
 date: 2025-10-19
 paperurl: 'https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/'
