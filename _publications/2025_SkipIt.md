@@ -1,0 +1,13 @@
+---
+title: "Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models "
+collection: publications
+category: manuscripts
+excerpt: 'Under Review for ICLR 2026. Paper presents a unified framework for analyzing model efficiency improvement methods such as token pruning and layer skipping. We then use this framework and do a case-study on layer-skipping, theoretically grounding its results. '
+date: 2024-7-16
+paperurl: 'https://www.arxiv.org/abs/2509.25584'
+citation: 'Hartman, M.†, Jayaraman V.A.†, Choraria, M., Bhimaraju, A., & Varshney, L.R. (2025). Skip-It? Theoretical
+Conditions for Layer Skipping in Vision-Language Models. Preprint https://www.arxiv.org/abs/2509.25584'
+---
+
+Vision-language models (VLMs) achieve incredible performance across a wide range of tasks, but their large size makes inference costly. Recent work shows that selectively skipping VLM layers can improve efficiency with minimal performance loss or even performance improvements. However, this technique remains underused due to the limited understanding of when layer skipping is beneficial. In this paper, we develop a framework that uses information and learning theory to characterize the conditions under which layer skipping enhances efficiency without sacrificing performance. Motivated by these observations, we analyze the evolution of the VLM's hidden representations through the LLM backbone and show that layers with large redundancy as predicted by our framework coincide with those skipped by popular layer-skipping methods in practice, providing a unified theoretical scaffolding for multiple efficient inference techniques. Our experiments demonstrate that skipping such layers yields faster inference that preserves performance, and also show that applying skipping outside these conditions leads to model degradation.
+
