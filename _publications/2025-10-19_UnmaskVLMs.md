@@ -5,7 +5,7 @@ category: manuscripts
 excerpt: 'Presented at the eXCV Workshop at ICCV 2025. Interpretability work on determining how vision is transformed in the early layers in VLMs. '
 date: 2025-10-19
 paperurl: 'https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/'
-citation: 'Hartman, M.^†, Jayaraman, V.A.^†, Choraria, M., Bhimaraju, A., & Varshney, L. R. (2025). Unmasking the
+citation: 'Hartman, M.*, Jayaraman, V.A.*, Choraria, M., Bhimaraju, A., & Varshney, L. R. (2025). Unmasking the
 functionality of early layers in VLMs'
 ---
 
