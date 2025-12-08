@@ -39,11 +39,11 @@ Academic Coursework
 
 ### Past courses:
 - Math:
-  - Real Analysis
-  - Abstract Algebra
+  - (Honors) Real Analysis
+  - (Honors) Abstract Algebra
   - Graph Theory
   - Probability Theory
-  - Linear Algebra
+  - (Honors) Linear Algebra
   - Differential Equations
   - <u>Algebraic Topology</u>
 - Applied Math:
