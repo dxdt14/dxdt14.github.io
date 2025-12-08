@@ -28,14 +28,14 @@ Academic Coursework
 - Numerical Analysis (CS 450)
 - Senior Thesis
 
-Current Courses:
+### Current Courses:
 - Information Theory (ECE 563)
 - Probability and Measure (STAT 553)
 - Deep Generative Models (ECE 498)
 - Complex Variables (MATH 448)
 - Senior Research
 
-Past courses:
+### Past courses:
 - Math:
   - Real Analysis
   - Abstract Algebra
