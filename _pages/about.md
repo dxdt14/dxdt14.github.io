@@ -11,7 +11,7 @@ About Me
 ===
 
 I am Vidhata Jayaraman, a fourth year undergraduate student at the University of Illinois Urbana-Champaign (UIUC) pursuing a dual degree
-in Computer Engineering and Mathematics. I am currently doing research under Professors [Lav R. Varshney](varshney.csl.illinois.edu[) and [Rayadurgam Srikant](sites.google.com/a/illinois.edu/srikant) at UIUC in machine learning theory (with a particular focus on information theoretic methods). I am also being co-advised by both professors for my senior thesis on "Information-theoretic limits of Knowledge Distillation". I am planning to pursuing a Ph.D. in machine learning theory/statistics. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
+in Computer Engineering and Mathematics. I am currently doing research under Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant) at UIUC in machine learning theory (with a particular focus on information theoretic methods). I am also being co-advised by both professors for my senior thesis on "Information-theoretic limits of Knowledge Distillation". I am planning to pursuing a Ph.D. in machine learning theory/statistics. I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
 
 
 Academic Interests
