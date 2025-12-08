@@ -21,7 +21,7 @@ My main research interests lie in Machine Learning Theory, High-Dimensional Stat
 
 Academic Coursework
 ===
-Spring 2026 Courses:
+### Spring 2026 Courses:
 - Optimal Controls (ECE 553)
 - Statistical Inference (ECE 561)
 - Partial Differential Equations (MATH 442)
