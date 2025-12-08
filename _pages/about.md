@@ -24,7 +24,7 @@ Academic Coursework
 *course* denotes graduate-level
 
 ### Spring 2026 Courses:
-- *Optimal Controls* (ECE 553)
+- <u>*Optimal Controls* </u>(ECE 553)
 - *Statistical Inference* (ECE 561)
 - Partial Differential Equations (MATH 442)
 - Numerical Analysis (CS 450)
