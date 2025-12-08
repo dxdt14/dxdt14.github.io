@@ -21,17 +21,19 @@ My main research interests lie in Machine Learning Theory, High-Dimensional Stat
 
 Academic Coursework
 ===
+*course* denotes graduate-level
+
 ### Spring 2026 Courses:
-- Optimal Controls (ECE 553)
-- Statistical Inference (ECE 561)
+- *Optimal Controls* (ECE 553)
+- *Statistical Inference* (ECE 561)
 - Partial Differential Equations (MATH 442)
 - Numerical Analysis (CS 450)
 - Senior Thesis
 
 ### Current Courses:
-- Information Theory (ECE 563)
-- Probability and Measure (STAT 553)
-- Deep Generative Models (ECE 498)
+- *Information Theory* (ECE 563)
+- *Probability and Measure* (STAT 553)
+- *Deep Generative Models* (ECE 498/598)
 - Complex Variables (MATH 448)
 - Senior Research
 
@@ -43,10 +45,10 @@ Academic Coursework
   - Probability Theory
   - Linear Algebra
   - Differential Equations
-  - Algebraic Topology
+  - *Algebraic Topology*
 - Applied Math:
   - Optimization
-  - Random Processes
+  - *Random Processes*
   - Machine Learning
   - Deep Learning for Computer Vision
   - Quantum Information Theory
