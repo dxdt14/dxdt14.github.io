@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+[View PDF](/files/cv.pdf){:target="_blank"}
+
+<iframe src="/files/cv.pdf" width="100%" height="800px" style="border: none;">
 
 <iframe src="/files/cv.pdf" width="100%" height="800px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it:
