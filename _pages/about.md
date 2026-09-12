@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ===
 
-I am a PhD student in Electrical Engineering at Stanford University, under the guidance of Professor [Ayfer Özgür](https://stanford.edu/~aozgur/). I study the theoretical foundations of machine learning, particularly through high-dimensional statistics, information theory, and optimization. My current research includes model distillation, antidistillation, and privacy.
+I am a PhD student in Electrical Engineering at Stanford University. My current rotation advisor is Professor [Ayfer Özgür](https://stanford.edu/~aozgur/). I study the theoretical foundations of machine learning, particularly through high-dimensional statistics, information theory, and optimization. My current research includes model distillation, antidistillation, and privacy.
 
 I graduated with dual B.S. degrees in Computer Engineering and Mathematics from the University of Illinois Urbana-Champaign (UIUC), where I conducted research with Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant). Outside of research, I enjoy music and played piano and trombone.
 
