@@ -11,11 +11,11 @@ redirect_from:
 About Me
 ===
 
-I am a PhD student in Electrical Engineering at Stanford University, advised by Professor [Ayfer Özgür](https://stanford.edu/~aozgur/). I study the theoretical foundations of machine learning, particularly through high-dimensional statistics, information theory, and optimization. My current research includes model distillation and antidistillation, associative memory, and efficient multimodal models.
+I am a PhD student in Electrical Engineering at Stanford University, under the guidance of Professor [Ayfer Özgür](https://stanford.edu/~aozgur/). I study the theoretical foundations of machine learning, particularly through high-dimensional statistics, information theory, and optimization. My current research includes model distillation, antidistillation, and privacy.
 
-Previously, I completed B.S. degrees in Computer Engineering and Mathematics at the University of Illinois Urbana-Champaign (UIUC), where I conducted research with Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant). Outside research, I enjoy music and previously played piano and trombone.
+I graduated with dual B.S. degrees in Computer Engineering and Mathematics from the University of Illinois Urbana-Champaign (UIUC), where I conducted research with Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant). Outside of research, I enjoy music and played piano and trombone.
 
-Selected Work
+Selected Research
 ===
 
 - [Hiding in Plain Sight: Detectability-Aware Antidistillation of Reasoning Models](/publications/2026-09-4_NeurIPS_Antidistill/) — a detectability-aware framework for protecting reasoning traces from distillation attacks.
