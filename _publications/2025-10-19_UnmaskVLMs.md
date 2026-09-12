@@ -1,8 +1,10 @@
 ---
 title: "Unmasking the functionality of the early layers in VLMs"
 collection: publications
-category: conferences
-excerpt: 'Presented at the eXCV Workshop at ICCV 2025. Interpretability work on determining how vision is transformed in the early layers in VLMs. '
+category: workshops
+authors: 'M. Hartman<sup>*</sup>, <strong>V. A. Jayaraman</strong><sup>*</sup>, M. Choraria, A. Bhimaraju, and L. R. Varshney'
+venue_status: 'eXCV Workshop at ICCV 2025'
+excerpt: 'An interpretability study showing that early vision-language model layers primarily copy visual tokens, suggesting opportunities to reduce redundant computation.'
 date: 2025-10-19
 paperurl: 'https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/'
 citation: 'Hartman, M.*, Jayaraman, V.A.*, Choraria, M., Bhimaraju, A., & Varshney, L. R. (2025). Unmasking the

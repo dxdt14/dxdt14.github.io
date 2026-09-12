@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Vidhata Jayaraman"
+description: "Vidhata Jayaraman is an Electrical Engineering PhD student at Stanford studying machine learning theory, high-dimensional statistics, information theory, and optimization."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,35 +11,15 @@ redirect_from:
 About Me
 ===
 
-I am Vidhata Jayaraman, a first-year PhD in Electrical Engineering at Stanford University. I have completed my B.S. in Computer Engineering and B.S. in Mathematics at the University of Illinois Urbana-Champaign (UIUC). I am currently doing research under Professor [Ayfer Ozgur](https://stanford.edu/~aozgur/) in machine learning theory, statistics, privacy and information theory. I previously did reseach under Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant) at UIUC in machine learning theory (with a particular focus on information theoretic methods). I was co-advised by both professors for my senior thesis on "Information-theoretic limits of Knowledge Distillation". I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
+I am a PhD student in Electrical Engineering at Stanford University, advised by Professor [Ayfer Özgür](https://stanford.edu/~aozgur/). I study the theoretical foundations of machine learning, particularly through high-dimensional statistics, information theory, and optimization. My current research includes model distillation and antidistillation, associative memory, and efficient multimodal models.
 
+Previously, I completed B.S. degrees in Computer Engineering and Mathematics at the University of Illinois Urbana-Champaign (UIUC), where I conducted research with Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant). Outside research, I enjoy music and previously played piano and trombone.
 
-Academic Interests
+Selected Work
 ===
 
-My main research interests lie in Machine Learning Theory, High-Dimensional Statistics, Information Theory, Optimal Transport, and Optimization/Control. My main goals lie in doing statistical and geometric analyses on modern high-dimensional systems to explain their behavior, motivate algorithmic improvements, and find ulitmate performance bounds. I am currently doing work on deriving information-theoretic bounds on distillation and anti-distillation.
+- [Hiding in Plain Sight: Detectability-Aware Antidistillation of Reasoning Models](/publications/2026-09-4_NeurIPS_Antidistill/) — a detectability-aware framework for protecting reasoning traces from distillation attacks.
+- [Context-Gated Associative Retrieval: From Theory to Transformers](/publications/2026-09-4_NeurIPS_AssocMem/) — a theoretical and empirical account of how context reshapes associative retrieval.
+- [Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models](/publications/2025-12-3_SkipIt/) — a framework for understanding when efficient inference through layer skipping preserves model performance.
 
-Academic Coursework
-===
-
-<u> Stanford coursework </u>
-- Theory of Statistics I
-- Randomized Algorithms
-
-
-<u> Some UIUC coursework </u>
-
-- Optimal Controls (ECE 553)
-- Cryptography (CS 407)
-- Information Theory (ECE 563)
-- Probability and Measure I (STAT 553)
-- Deep Generative Models (ECE 498/598)
-- Real Analysis
-- Graph Theory
-- Algebraic Topology
-- Optimization
-- Random Processes
-- Machine Learning
-- Deep Learning for Computer Vision
-- Quantum Information Theory
-- Analog and Digital Signal Processing
+[See all publications →](/publications/)

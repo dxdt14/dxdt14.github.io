@@ -45,6 +45,13 @@
     }
   }
 
+  /* compact buttons for publication links */
+
+  &--small {
+    padding: 0.35em 0.75em;
+    font-size: $type-size-7;
+  }
+
   /* for dark backgrounds */
 
   &--inverse {

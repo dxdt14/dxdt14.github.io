@@ -1,8 +1,10 @@
 ---
 title: "SwitchCIT: Switching for Continual Instruction Tuning of Large Language Models"
 collection: publications
-category: manuscripts
-excerpt: 'Accepted into Journal of Special Topics in Signal Processing (JSTSP). Paper on utilizing a Switch Network to alleviate catastrophic forgetting in LLMs'
+category: peer_reviewed
+authors: 'X. Wu, M. Hartman<sup>*</sup>, <strong>V. A. Jayaraman</strong><sup>*</sup>, and L. R. Varshney'
+venue_status: 'IEEE Journal of Selected Topics in Signal Processing'
+excerpt: 'A switching network for alleviating catastrophic forgetting during continual instruction tuning of large language models.'
 date: 2024-07-16
 paperurl: 'https://arxiv.org/abs/2407.11780'
 citation: 'Wu, X., Hartman, M.*, Jayaraman, V. A.*, & Varshney, L. R. (2024, July 16). SwitchCIT: Switching for continual instruction tuning of large language models. arXiv.org. https://arxiv.org/abs/2407.11780'
