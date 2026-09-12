@@ -15,6 +15,8 @@ I am a PhD student in Electrical Engineering at Stanford University. My current 
 
 I graduated with dual B.S. degrees in Computer Engineering and Mathematics from the University of Illinois Urbana-Champaign (UIUC), where I conducted research with Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant). Outside of research, I enjoy music and played piano and trombone.
 
+*I’m interested in collaborations involving theoretical machine learning, model efficiency, interpretability, and AI safety.*
+
 Selected Research
 ===
 
