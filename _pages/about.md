@@ -30,7 +30,7 @@ Academic Coursework
 
 - Optimal Controls (ECE 553)
 - Cryptography (CS 407)
-- Information Theory(ECE 563)
+- Information Theory (ECE 563)
 - Probability and Measure I (STAT 553)
 - Deep Generative Models (ECE 498/598)
 - Real Analysis
