@@ -39,6 +39,7 @@ layout: default
         {% elsif page.collection == 'publications' %}
           {% if page.authors %}<p>{{ page.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
           {% if page.venue_status %}<p><strong>{{ page.venue_status }}</strong></p>{% endif %}
+          {% if page.advisor %}<p>Advisor: {{ page.advisor | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
         {% elsif page.venue and page.date %}
           <!-- <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
         {% elsif page.date %}

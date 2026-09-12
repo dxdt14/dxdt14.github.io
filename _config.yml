@@ -82,6 +82,8 @@ publication_category:
     title: 'Workshop Papers'
   preprints:
     title: 'Preprints and Manuscripts'
+  theses:
+    title: 'Theses and Other Writing'
   
 
 # Site Settings
