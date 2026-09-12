@@ -1,9 +1,9 @@
 ---
 title: "Towards Context-Based Retrieval in Associative Memories"
 collection: publications
-category: peer_reviewed
+category: workshops
 authors: 'M. Choraria, A. Gerogiannis, <strong>V. A. Jayaraman</strong>, A. Mani, and L. R. Varshney'
-venue_status: 'ICLR 2026 · Oral presentation'
+venue_status: 'NFAM Workshop at ICLR 2026 · Oral presentation'
 excerpt: 'A two-stage energy-based associative memory in which context reshapes the retrieval landscape, increasing separation and inducing sparsity for improved recall.'
 date: 2026-04-22
 paperurl: 'https://openreview.net/pdf?id=BuiIBO4Mmr'
