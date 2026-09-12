@@ -4,7 +4,7 @@ collection: publications
 category: theses
 authors: '<strong>Vidhata Jayaraman</strong>'
 venue_status: 'Senior Thesis · University of Illinois Urbana-Champaign, 2026'
-advisor: '[Lav R. Varshney](https://varshney.csl.illinois.edu)'
+advisor: '[Lav R. Varshney](https://varshney.csl.illinois.edu), [R. Srikant](https://sites.google.com/a/illinois.edu/srikant)'
 excerpt: 'An information-theoretic study of the fundamental limits of knowledge distillation, including its interpretation as compression, performance limits for student models, and the formulation of antidistillation.'
 paperurl: '/files/undergrad_thesis.pdf'
 paper_label: 'Thesis PDF'
