@@ -1,7 +1,7 @@
 ---
 title: "Towards Context-Based Retrieval in Associative Memories"
 collection: publications
-category: manuscripts
+category: conferences
 excerpt: '[Oral Presentation] at ICLR 2026. We propose a two-stage energy-based associative memory where context reshapes the retrieval landscape, provably increasing separation and inducing sparsity for improved recall.'
 date: 2026-04-22
 paperurl: 'https://openreview.net/pdf?id=BuiIBO4Mmr'

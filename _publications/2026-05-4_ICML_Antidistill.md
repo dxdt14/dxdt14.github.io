@@ -1,7 +1,7 @@
 ---
 title: "Protecting the Trace: A Principled Black-Box Approach Against Distillation Attacks"
 collection: publications
-category: manuscripts
+category: conferences
 excerpt: 'Presented at the TAIGR Workshop at ICML 2026. We formulate antidistillation as a Stackelberg game and introduce TraceGuard, a black-box defense that protects frontier models from distillation attacks by removing high-importance sentences from reasoning traces.'
 date: 2026-05-04
 paperurl: 'https://arxiv.org/abs/2604.23238v1'
