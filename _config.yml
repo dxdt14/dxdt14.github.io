@@ -21,7 +21,7 @@ repository               : "dxdt14/dxdt14.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0930.png"
+  avatar           : "linkedin_profile_pic.jpeg"
   name             : ""
   pronouns         : "he/him" 
   bio              : "I am an undergraduate student pursuing a dual degree in Computer Engineering and Mathematics. I am interested in AI/ML, high-dimensional statistics, optimization, and information theory"
