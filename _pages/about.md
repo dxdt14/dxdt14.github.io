@@ -10,8 +10,6 @@ redirect_from:
 About Me
 ===
 
-*I am happy to annouce I will be joining Stanford in the Autumn quarter to pursue my PhD in Electrical Engineering!*
-
 I am Vidhata Jayaraman, a first-year PhD in Electrical Engineering at Stanford University. I have completed my B.S. in Computer Engineering and B.S. in Mathematics at the University of Illinois Urbana-Champaign (UIUC). I am currently doing research under Professor [Ayfer Ozgur](https://stanford.edu/~aozgur/) in machine learning theory, statistics, privacy and information theory. I previously did reseach under Professors [Lav R. Varshney](https://varshney.csl.illinois.edu) and [Rayadurgam Srikant](https://sites.google.com/a/illinois.edu/srikant) at UIUC in machine learning theory (with a particular focus on information theoretic methods). I was co-advised by both professors for my senior thesis on "Information-theoretic limits of Knowledge Distillation". I also have a passion for music as I played piano for 14 years and trombone for 9 years (both until age 18). 
 
 
