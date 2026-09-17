@@ -21,7 +21,7 @@ repository               : "dxdt14/dxdt14.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin_profile_pic.jpeg"
+  avatar           : "grad_photo.png"
   name             : "Vidhata Jayaraman"
   pronouns         : "he/him" 
   bio              : "PhD student in EE at Stanford working on machine learning theory, high-dimensional statistics, optimization, and information theory."
