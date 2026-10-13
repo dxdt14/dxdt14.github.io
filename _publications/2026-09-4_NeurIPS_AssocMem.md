@@ -3,10 +3,10 @@ title: "Context-Gated Associative Retrieval: From Theory to Transformers"
 collection: publications
 category: preprints
 authors: 'M. Choraria, A. Gerogiannis, <strong>V. A. Jayaraman</strong>, A. Mani, and L. R. Varshney'
-venue_status: 'Under review at NeurIPS 2026'
+venue_status: 'Manuscript available'
 excerpt: 'A theoretical and empirical account of context-gated associative retrieval, connecting energy-based memory dynamics to in-context learning in transformers.'
 date: 2026-05-04
-paperurl: 'https://arxiv.org/abs/2605.10970'
+paperurl: '/files/context_gated_assoc_retrieval.pdf'
 citation: 'Choraria, M., Gerogiannis, A., Jayaraman, V.A., Mani, A., & Varshney, L.R. (2026). Context-Gated Associative Retrieval: From Theory to Transformers'
 ---
 
